@@ -1,5 +1,5 @@
 # Avengers Problem: Given a list of powers of avengers in which we divide them into two teams
-# show which aveneger team has more power and the difference in power between the two teams
+# show which avenger team has more power and the difference in power between the two teams
 N =list(map(int, input("enter powers:").split()))
 powers = N
 print(powers)
